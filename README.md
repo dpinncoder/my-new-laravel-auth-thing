@@ -1,3 +1,5 @@
+### (NOTE: This was just a test to mimic other Github user's who "import" other repos, rather than fork them.. and then pass them off as their own. However, they often strip any sourcing info and commit/tag history, somehow)
+
 ## Laravel Auth
 
 #### Laravel Auth is a Complete Build of Laravel 8 with Email Registration Verification, Social Authentication, User Roles and Permissions, User Profiles, and Admin restricted user management system. Built on Bootstrap 4.
